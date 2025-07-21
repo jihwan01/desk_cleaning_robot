@@ -108,13 +108,13 @@ Our project shares some core ideas from commercial robotic vacuums in terms of a
 # Demo
 <p align="center">
   <img src="https://i.imgur.com/z9OD3dd.gif" width="15%" />
-  <img src="https://imgur.com/O80AWOy.gif" width="15%" />
-  <img src="https://imgur.com/my7WCZA.gif" width="15%" />
-  <img src="https://imgur.com/x6ajDim.gif" width="15%" />
+  <img src="https://i.imgur.com/O80AWOy.gif" width="15%" />
+  <img src="https://i.imgur.com/my7WCZA.gif" width="15%" />
+  <img src="https://i.imgur.com/x6ajDim.gif" width="15%" />
 </p><p align="center">
-  <img src="https://imgur.com/WL8vLB8.gif" width="15%" />
-  <img src="https://imgur.com/bov9D1O.gif" width="15%" />
-  <img src="https://imgur.com/MvnGggd.gif" width="15%" />
+  <img src="https://i.imgur.com/WL8vLB8.gif" width="15%" />
+  <img src="https://i.imgur.com/bov9D1O.gif" width="15%" />
+  <img src="https://i.imgur.com/MvnGggd.gif" width="15%" />
 </p>
 
 
