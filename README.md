@@ -105,7 +105,15 @@ Our project shares some core ideas from commercial robotic vacuums in terms of a
 - Wireless status reporting (Bluetooth / Wi-Fi).
 - Motor powered by solar panels
 
-# Demo
+# Demo (Pics & GIFs)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b110086e-4473-421b-bd82-69344f6b3926" width="24%"/>
+  <img src="https://github.com/user-attachments/assets/dba738ab-554a-4e50-8ce7-681deab5c811" width="24%"/>
+  <img src="https://github.com/user-attachments/assets/85f446cd-2534-43b3-86f7-b83060cc1647" width="24%"/>
+  <img src="https://github.com/user-attachments/assets/f4c9020f-5ac0-4337-bb76-f702c9ba1039" width="24%"/>
+</p>
+
 <p align="center">
   <img src="https://i.imgur.com/z9OD3dd.gif" width="15%" />
   <img src="https://i.imgur.com/O80AWOy.gif" width="15%" />
