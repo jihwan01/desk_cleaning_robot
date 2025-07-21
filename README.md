@@ -65,7 +65,7 @@ Load Cell (Weight Sensor) : Senses the weight of the collected debris in the bin
 | uLCD (Serial + Reset)         | Serial1 / 4    |
 | Vacuum Polling Pin            | 2              |
 <p align="center">
-  <img src="https://github.gatech.edu/joh413/ECE4180_FinalProject/assets/99901/ee4b3a0a-234f-43be-a0a8-6d7863e579f9" width="50%" />
+  <img width="50%" alt="image" src="https://github.com/user-attachments/assets/7393bf4f-599a-47e5-9886-181d7ed11bcb" />
 </p>
 
 
